@@ -229,7 +229,7 @@ export default function Index() {
           <Text style={styles.headerEmoji}>🧠</Text>
         </Animated.View>
         
-        <Text style={styles.title}>MoodFlow</Text>
+        <Text style={styles.title}>MoodAnalysing</Text>
         <Text style={styles.subtitle}>Express yourself, discover your vibe ✨</Text>
 
         {/* Quick Suggestions */}
